@@ -1,0 +1,27 @@
+{
+  "name": "ng2-ui-runtime",
+  "version": "1.0.0",
+  "description": "JSON Schema Based UI runtime",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akserg/ng2-ui-runtime.git"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "ui",
+    "runtime"
+  ],
+  "author": "Sergey Akopkokhyants <akserg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akserg/ng2-ui-runtime/issues"
+  },
+  "homepage": "https://github.com/akserg/ng2-ui-runtime#readme"
+}
